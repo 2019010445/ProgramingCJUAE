@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\rnjsg\Documents\GitHub\ProgramingCJUAE\practice\practice8\main.cpp(9,10): warning C4477: 'scanf_s' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double *'입니다.
+C:\Users\rnjsg\Documents\GitHub\ProgramingCJUAE\practice\practice8\main.cpp(9,10): warning C4477: 'scanf_s' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'double *'입니다.
+  practice8.vcxproj -> C:\Users\rnjsg\Documents\GitHub\ProgramingCJUAE\practice\practice8\x64\Debug\practice8.exe
