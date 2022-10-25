@@ -1,7 +1,5 @@
 ﻿  main.cpp
-C:\Users\rnjsg\Documents\GitHub\ProgramingCJUAE\과제\report_2\main.cpp(12,6): warning C4101: 'A' :참조되지 않은 지역 변수입니다.
-C:\Users\rnjsg\Documents\GitHub\ProgramingCJUAE\과제\report_2\main.cpp(32,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\rnjsg\Documents\GitHub\ProgramingCJUAE\과제\report_2\main.cpp(53,23): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\rnjsg\Documents\GitHub\ProgramingCJUAE\과제\report_2\main.cpp(59,14): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\rnjsg\Documents\GitHub\ProgramingCJUAE\과제\report_2\main.cpp(20): error C4700: 초기화되지 않은 'avg' 지역 변수를 사용했습니다.
-C:\Users\rnjsg\Documents\GitHub\ProgramingCJUAE\과제\report_2\main.cpp(21): error C4700: 초기화되지 않은 'var' 지역 변수를 사용했습니다.
+C:\Users\rnjsg\Documents\GitHub\ProgramingCJUAE\과제\report_2\main.cpp(12,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rnjsg\Documents\GitHub\ProgramingCJUAE\과제\report_2\main.cpp(40,24): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rnjsg\Documents\GitHub\ProgramingCJUAE\과제\report_2\main.cpp(46,15): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  report_2.vcxproj -> C:\Users\rnjsg\Documents\GitHub\ProgramingCJUAE\과제\report_2\x64\Debug\report_2.exe
