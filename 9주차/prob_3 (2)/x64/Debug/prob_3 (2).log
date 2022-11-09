@@ -1,0 +1,6 @@
+﻿  소스.cpp
+C:\Users\rnjsg\Documents\GitHub\ProgramingCJUAE\9주차\prob_3 (2)\소스.cpp(14,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\rnjsg\Documents\GitHub\ProgramingCJUAE\9주차\prob_3 (2)\소스.cpp(33,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\rnjsg\Documents\GitHub\ProgramingCJUAE\9주차\prob_3 (2)\소스.cpp(34,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\rnjsg\Documents\GitHub\ProgramingCJUAE\9주차\prob_3 (2)\소스.cpp(35,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  prob_3 (2).vcxproj -> C:\Users\rnjsg\Documents\GitHub\ProgramingCJUAE\9주차\prob_3 (2)\x64\Debug\prob_3 (2).exe

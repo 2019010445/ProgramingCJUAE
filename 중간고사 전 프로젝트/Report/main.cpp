@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-#define RANGEANSWER 10
+#define MAXRANGEANSWER 10
 #define MINRANGENUMBER 0
 #define ADD 1
 #define MAXOPPORTUNITIES  4
@@ -11,7 +11,7 @@ int main(void)
 {
 	int Answer, inputnumber;                                                                    //Set the answers you set on your computer and the variables you want to enter
 	int count = MINRANGENUMBER;                                                                 //Set variables for the opportunity to answer correctly
-	Answer = (rand() % RANGEANSWER) + ADD;                                                      //Set a random positive integer
+	Answer = (rand() % MAXRANGEANSWER) + ADD;                                                      //Set a random positive integer
 	srand(time(NULL));                                                                
 	printf("UP&DOWN GAME START\n");                                                             //a phrase that signals the start of a game
 	printf("Guess a number between 1 and 10. \n");
@@ -21,7 +21,7 @@ int main(void)
 		printf("Input your answer : \n");
 		scanf_s("%d", &inputnumber);
 
-		if (inputnumber < MINRANGENUMBER || inputnumber >RANGEANSWER)                           //Processing input status exceptions
+		if (inputnumber < MINRANGENUMBER || inputnumber > MAXRANGEANSWER)                           //Processing input status exceptions
 		{
 			printf("Not in scope, Re-enter please.  \n");
 			printf("Input your answer : \n");
