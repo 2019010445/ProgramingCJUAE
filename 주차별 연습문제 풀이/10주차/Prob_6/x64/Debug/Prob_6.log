@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Users\rnjsg\Documents\GitHub\ProgramingCJUAE\주차별 연습문제 풀이\10주차\Prob_6\main.cpp(25,10): warning C4477: 'scanf_s' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'FILE *'입니다.
+C:\Users\rnjsg\Documents\GitHub\ProgramingCJUAE\주차별 연습문제 풀이\10주차\Prob_6\main.cpp(25,10): warning C4477: 'scanf_s' : 서식 문자열 '%f'에 'float *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\Users\rnjsg\Documents\GitHub\ProgramingCJUAE\주차별 연습문제 풀이\10주차\Prob_6\main.cpp(25,10): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'float *'입니다.
+C:\Users\rnjsg\Documents\GitHub\ProgramingCJUAE\주차별 연습문제 풀이\10주차\Prob_6\main.cpp(25,10): message : 이 인수는 변환 지정자에서 사용됩니다.
+C:\Users\rnjsg\Documents\GitHub\ProgramingCJUAE\주차별 연습문제 풀이\10주차\Prob_6\main.cpp(25,10): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'char *'입니다.
+C:\Users\rnjsg\Documents\GitHub\ProgramingCJUAE\주차별 연습문제 풀이\10주차\Prob_6\main.cpp(25,10): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\Users\rnjsg\Documents\GitHub\ProgramingCJUAE\주차별 연습문제 풀이\10주차\Prob_6\main.cpp(25,10): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\rnjsg\Documents\GitHub\ProgramingCJUAE\주차별 연습문제 풀이\10주차\Prob_6\main.cpp(25,10): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 6개 필요하지만 5개가 제공되었습니다.
+C:\Users\rnjsg\Documents\GitHub\ProgramingCJUAE\주차별 연습문제 풀이\10주차\Prob_6\main.cpp(25,10): message : 누락된 variadic 인수 6이(가) 서식 문자열 '%s'에 필요합니다.
+C:\Users\rnjsg\Documents\GitHub\ProgramingCJUAE\주차별 연습문제 풀이\10주차\Prob_6\main.cpp(25,10): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\Users\rnjsg\Documents\GitHub\ProgramingCJUAE\주차별 연습문제 풀이\10주차\Prob_6\main.cpp(27,14): warning C4477: 'fprintf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'int'입니다.
+C:\Users\rnjsg\Documents\GitHub\ProgramingCJUAE\주차별 연습문제 풀이\10주차\Prob_6\main.cpp(27,14): warning C4313: 'fprintf': 서식 문자열의 '%s'이(가) int' 형식의 인수 3과(와) 충돌합니다.
+C:\Users\rnjsg\Documents\GitHub\ProgramingCJUAE\주차별 연습문제 풀이\10주차\Prob_6\main.cpp(27,14): warning C4477: 'fprintf' : 서식 문자열 '%c'에 'int' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'char *'입니다.
+C:\Users\rnjsg\Documents\GitHub\ProgramingCJUAE\주차별 연습문제 풀이\10주차\Prob_6\main.cpp(27,14): warning C4313: 'fprintf': 서식 문자열의 '%c'이(가) char *' 형식의 인수 4과(와) 충돌합니다.
+C:\Users\rnjsg\Documents\GitHub\ProgramingCJUAE\주차별 연습문제 풀이\10주차\Prob_6\main.cpp(13,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Prob_6.vcxproj -> C:\Users\rnjsg\Documents\GitHub\ProgramingCJUAE\주차별 연습문제 풀이\10주차\Prob_6\x64\Debug\Prob_6.exe
